@@ -1,0 +1,1010 @@
+{
+    "name": "Astronomical Object",
+    "children": [
+        {
+            "name": " Planet",
+            "children": [
+                {
+                    "name": " [Type]",
+                    "children": [
+                        {
+                            "name": " Terrestrial",
+                            "size": 1
+                        },
+                        {
+                            "name": " Gas Giant",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "  [Feature]",
+                    "children": [
+                        {
+                            "name": " Surface",
+                            "children": [
+                                {
+                                    "name": " Mountain",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Canyon",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Volcanic",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Impact",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Erosion",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Liquid",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Ice",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Atmosphere",
+                            "children": [
+                                {
+                                    "name": " Cloud",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Storm",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Belt",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Aurora",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": " [Special Cases]",
+                    "children": [
+                        {
+                            "name": " Transiting",
+                            "size": 1
+                        },
+                        {
+                            "name": " Hot Jupiter",
+                            "size": 1
+                        },
+                        {
+                            "name": " Pulsar planet",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " Satellite",
+                    "children": [
+                        {
+                            "name": " [Feature]",
+                            "children": [
+                                {
+                                    "name": " Surface",
+                                    "children": [
+                                        {
+                                            "name": " Mountain",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": " Canyon",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": " Volcanic",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": " Impact",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": " Erosion",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": " Liquid",
+                                            "size": 1
+                                        },
+                                        {
+                                            "name": " Ice",
+                                            "size": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": " Atmosphere",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": " Ring",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": " Interplanetary Body",
+            "children": [
+                {
+                    "name": " Dwarf planet",
+                    "size": 1
+                },
+                {
+                    "name": " Comet",
+                    "children": [
+                        {
+                            "name": " Nucleus",
+                            "size": 1
+                        },
+                        {
+                            "name": " Coma",
+                            "size": 1
+                        },
+                        {
+                            "name": " Tail",
+                            "children": [
+                                {
+                                    "name": " Dust",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Gas",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": " Asteroid",
+                    "size": 1
+                },
+                {
+                    "name": " Meteoroid",
+                    "size": 1
+                }
+            ]
+        },
+        {
+            "name": " Star",
+            "children": [
+                {
+                    "name": " [Evolutionary Stage]",
+                    "children": [
+                        {
+                            "name": " Protostar",
+                            "size": 1
+                        },
+                        {
+                            "name": " Young Stellar Object",
+                            "size": 1
+                        },
+                        {
+                            "name": " Main Sequence",
+                            "size": 1
+                        },
+                        {
+                            "name": " Red Giant",
+                            "size": 1
+                        },
+                        {
+                            "name": " Red Supergiant",
+                            "size": 1
+                        },
+                        {
+                            "name": " Blue Supergiant",
+                            "size": 1
+                        },
+                        {
+                            "name": " White Dwarf",
+                            "size": 1
+                        },
+                        {
+                            "name": " Supernova",
+                            "size": 1
+                        },
+                        {
+                            "name": " Neutron Star",
+                            "children": [
+                                {
+                                    "name": " Pulsar",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Magnetar",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Black Hole",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " [Type]",
+                    "children": [
+                        {
+                            "name": " Variable",
+                            "children": [
+                                {
+                                    "name": " Pulsating",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Irregular",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Eclipsing",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Flare Star",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Nova",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " X-Ray Binary (Star)",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Carbon",
+                            "size": 1
+                        },
+                        {
+                            "name": " Brown Dwarf",
+                            "size": 1
+                        },
+                        {
+                            "name": " Wolf-Rayet",
+                            "size": 1
+                        },
+                        {
+                            "name": " Blue Straggler",
+                            "size": 1
+                        },
+                        {
+                            "name": " Exotic",
+                            "children": [
+                                {
+                                    "name": " X-Ray Binary",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "  [Spectral Type]",
+                    "children": [
+                        {
+                            "name": " O",
+                            "size": 1
+                        },
+                        {
+                            "name": " B",
+                            "size": 1
+                        },
+                        {
+                            "name": " A",
+                            "size": 1
+                        },
+                        {
+                            "name": " F",
+                            "size": 1
+                        },
+                        {
+                            "name": " G",
+                            "size": 1
+                        },
+                        {
+                            "name": " K",
+                            "size": 1
+                        },
+                        {
+                            "name": " M",
+                            "size": 1
+                        },
+                        {
+                            "name": " L",
+                            "size": 1
+                        },
+                        {
+                            "name": " T",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " [Population]",
+                    "children": [
+                        {
+                            "name": " I",
+                            "size": 1
+                        },
+                        {
+                            "name": " II",
+                            "size": 1
+                        },
+                        {
+                            "name": " III",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "  [Feature]",
+                    "children": [
+                        {
+                            "name": " Photosphere",
+                            "children": [
+                                {
+                                    "name": " Granulation",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Sunspot",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Chromosphere",
+                            "children": [
+                                {
+                                    "name": " Flare",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Facula",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Corona",
+                            "children": [
+                                {
+                                    "name": " Prominence",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": " [Grouping]",
+                    "children": [
+                        {
+                            "name": " Binary",
+                            "size": 1
+                        },
+                        {
+                            "name": " Triple",
+                            "size": 1
+                        },
+                        {
+                            "name": " Multiple",
+                            "size": 1
+                        },
+                        {
+                            "name": " Cluster",
+                            "children": [
+                                {
+                                    "name": " Open",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Globular",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": " Circumstellar Material",
+                    "children": [
+                        {
+                            "name": " Planetary System",
+                            "size": 1
+                        },
+                        {
+                            "name": " Disk",
+                            "children": [
+                                {
+                                    "name": " Protoplanetary",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Accretion",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Debris",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Outflow",
+                            "children": [
+                                {
+                                    "name": " Solar Wind",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Coronal Mass Ejection",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": " Nebula",
+            "children": [
+                {
+                    "name": " [Type]",
+                    "children": [
+                        {
+                            "name": " Interstellar Medium",
+                            "size": 1
+                        },
+                        {
+                            "name": " Star Formation",
+                            "size": 1
+                        },
+                        {
+                            "name": " Planetary",
+                            "size": 1
+                        },
+                        {
+                            "name": " Supernova Remnant",
+                            "size": 1
+                        },
+                        {
+                            "name": " Jet",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "  [Appearance]",
+                    "children": [
+                        {
+                            "name": " Emission",
+                            "children": [
+                                {
+                                    "name": " H II Region",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Reflection",
+                            "children": [
+                                {
+                                    "name": " Light Echo",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Dark",
+                            "children": [
+                                {
+                                    "name": " Molecular Cloud",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Bok Globule",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Proplyd",
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": " Galaxy",
+            "children": [
+                {
+                    "name": " [Type]",
+                    "children": [
+                        {
+                            "name": " Spiral",
+                            "size": 1
+                        },
+                        {
+                            "name": " Barred",
+                            "size": 1
+                        },
+                        {
+                            "name": " Lenticular",
+                            "size": 1
+                        },
+                        {
+                            "name": " Elliptical",
+                            "size": 1
+                        },
+                        {
+                            "name": " Ring",
+                            "size": 1
+                        },
+                        {
+                            "name": " Irregular",
+                            "size": 1
+                        },
+                        {
+                            "name": " Interacting",
+                            "size": 1
+                        },
+                        {
+                            "name": " Gravitationally Lensed",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " [Size]",
+                    "children": [
+                        {
+                            "name": " Giant",
+                            "size": 1
+                        },
+                        {
+                            "name": " Dwarf",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " [Activity]",
+                    "children": [
+                        {
+                            "name": " Normal",
+                            "size": 1
+                        },
+                        {
+                            "name": " AGN",
+                            "children": [
+                                {
+                                    "name": " Quasar",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Seyfert",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Blazar",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Liner",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Starburst",
+                            "size": 1
+                        },
+                        {
+                            "name": " Ultraluminous",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " [Component]",
+                    "children": [
+                        {
+                            "name": " Bulge",
+                            "size": 1
+                        },
+                        {
+                            "name": " Bar",
+                            "size": 1
+                        },
+                        {
+                            "name": " Disk",
+                            "size": 1
+                        },
+                        {
+                            "name": " Halo",
+                            "size": 1
+                        },
+                        {
+                            "name": " Ring",
+                            "size": 1
+                        },
+                        {
+                            "name": " Central Black Hole",
+                            "size": 1
+                        },
+                        {
+                            "name": " Spiral Arm",
+                            "size": 1
+                        },
+                        {
+                            "name": " Dust Lane",
+                            "size": 1
+                        },
+                        {
+                            "name": " Center/Core",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "  [Grouping]",
+                    "children": [
+                        {
+                            "name": " Pair",
+                            "size": 1
+                        },
+                        {
+                            "name": " Multiple",
+                            "size": 1
+                        },
+                        {
+                            "name": " Cluster",
+                            "size": 1
+                        },
+                        {
+                            "name": " Supercluster",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": " Cosmology",
+            "children": [
+                {
+                    "name": " [Morphology]",
+                    "children": [
+                        {
+                            "name": " Deep Field",
+                            "size": 1
+                        },
+                        {
+                            "name": " Large-Scale Structure",
+                            "size": 1
+                        },
+                        {
+                            "name": " Cosmic Background",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": "  [Phenomenon]",
+                    "children": [
+                        {
+                            "name": " Lensing",
+                            "size": 1
+                        },
+                        {
+                            "name": " Gamma Ray Burst",
+                            "size": 1
+                        },
+                        {
+                            "name": " Dark Matter",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": " Sky Phenomenon",
+            "children": [
+                {
+                    "name": " Night Sky",
+                    "children": [
+                        {
+                            "name": " Constellation",
+                            "size": 1
+                        },
+                        {
+                            "name": " Asterism",
+                            "size": 1
+                        },
+                        {
+                            "name": " Milky Way",
+                            "size": 1
+                        },
+                        {
+                            "name": " Trail",
+                            "children": [
+                                {
+                                    "name": " Meteor",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Star",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Satellite",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Zodiacal Light",
+                            "children": [
+                                {
+                                    "name": " Gegenschein",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Night glow",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " Eclipse",
+                    "children": [
+                        {
+                            "name": " Solar",
+                            "children": [
+                                {
+                                    "name": " Total",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Partial",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Annular",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Lunar",
+                            "children": [
+                                {
+                                    "name": " Total",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Partial",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Penumbral",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Occultation",
+                            "size": 1
+                        },
+                        {
+                            "name": " Transit",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " Light Phenomenon",
+                    "children": [
+                        {
+                            "name": " Sunrise-Sunset",
+                            "children": [
+                                {
+                                    "name": " Green flash",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Refractive Distortion",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Sun Pillar",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Cloud",
+                            "children": [
+                                {
+                                    "name": " Iridescent",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Noctilucent",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Nacreous",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Corona",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Glory",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Rainbow",
+                            "children": [
+                                {
+                                    "name": " Moonbow",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Fogbow",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Halo",
+                            "children": [
+                                {
+                                    "name": " Circle",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Parhelia",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Arc",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Ray-Shadow",
+                            "children": [
+                                {
+                                    "name": " Crepuscular ray",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Anti-crepuscular ray",
+                                    "size": 1
+                                },
+                                {
+                                    "name": " Earth shadow",
+                                    "size": 1
+                                }
+                            ]
+                        },
+                        {
+                            "name": " Lightning",
+                            "size": 1
+                        },
+                        {
+                            "name": " Aurora",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": " Technology",
+            "children": [
+                {
+                    "name": " Observatory",
+                    "children": [
+                        {
+                            "name": " Facility",
+                            "size": 1
+                        },
+                        {
+                            "name": " Telescope",
+                            "size": 1
+                        },
+                        {
+                            "name": " Instrument",
+                            "size": 1
+                        },
+                        {
+                            "name": " Detector",
+                            "size": 1
+                        }
+                    ]
+                },
+                {
+                    "name": " Spacecraft",
+                    "children": [
+                        {
+                            "name": " Orbiter",
+                            "size": 1
+                        },
+                        {
+                            "name": " Probe",
+                            "size": 1
+                        },
+                        {
+                            "name": " Lander",
+                            "size": 1
+                        },
+                        {
+                            "name": " Manned",
+                            "size": 1
+                        },
+                        {
+                            "name": " Launch Vehicle",
+                            "size": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": " People",
+            "children": [
+                {
+                    "name": " Scientist",
+                    "size": 1
+                },
+                {
+                    "name": " Astronaut",
+                    "size": 1
+                },
+                {
+                    "name": " Other/General"
+                }
+            ]
+        }
+    ]
+}
